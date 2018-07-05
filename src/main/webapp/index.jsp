@@ -8,8 +8,9 @@
 </head>
 <body>
     <%= "Good Morning Hertz" %>
-     <%= "Good Morning IBM" %>
-     <%= "Good Morning Team" %>
-     <%= "Good Morning Excallibur" %>
+    <%= "Good Morning IBM" %>
+      <%= "Good Morning India" %>
+     
+     
 </body>
 </html>
