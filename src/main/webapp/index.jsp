@@ -7,9 +7,9 @@
 <title>Hello World - JSP</title>
 </head>
 <body>
-    <%= "Good Morning Hertz" %>
-    <%= "Good Morning IBM" %>
-      <%= "Good Morning India" %>
+    <%= "Good Morning Hertz" %><br>
+    <%= "Good Morning IBM" %><br>
+      <%= "Good Morning India" %><br>
      
      
 </body>
